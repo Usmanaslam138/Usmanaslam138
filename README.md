@@ -5,13 +5,12 @@
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" alt="usmanaslam138" />
 
 
-- 🔭 I’m currently working on [movie website using TMBD API](https://movieflix-ee2.netlify.app/)
+- 🔭 I’m currently working as a Full Stack Developer at Stepway
 
-- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://usmanaslam.netlify.app/#portfolio](https://usmanaslam.netlify.app/#portfolio)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Angular, React and Bootstrap**
+- 💬 Ask me about **HTML, CSS, JavaScript, Angular and Bootstrap**
 
 - 📫 How to reach me **usmanaslam138@yahoo.com**
 
